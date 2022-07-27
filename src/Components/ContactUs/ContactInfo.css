@@ -1,0 +1,10 @@
+.outer-box {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.sqbox {
+  display: grid;
+  width: 25vw;
+  height: auto;
+  border: 2px solid red;
+}

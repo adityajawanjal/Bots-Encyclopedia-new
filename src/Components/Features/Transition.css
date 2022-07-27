@@ -1,0 +1,5 @@
+.grid {
+  margin: 2vh 12vw;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}

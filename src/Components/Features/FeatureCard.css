@@ -1,0 +1,5 @@
+.cardBox {
+  margin: 1vh 2vw;
+  display: inline;
+  border-bottom: 2px solid red;
+}

@@ -1,0 +1,24 @@
+.footer {
+  margin: 5vh 0;
+  background-color: beige;
+  padding: 1vh 0;
+}
+.container {
+  background-color: gray;
+  display: grid;
+  margin: 1vh auto;
+  border: 2px solid red;
+  text-align: center;
+  width: 50vw;
+  height: auto;
+}
+.suscribe {
+  margin: 1vh;
+  font-weight: 900;
+}
+.mail {
+  margin: 1vh;
+}
+.copyright {
+  text-align: center;
+}

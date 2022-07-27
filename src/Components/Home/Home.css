@@ -1,0 +1,16 @@
+.banner {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: 10vh 16vw;
+}
+.info {
+  display: grid;
+  width: 40vw;
+  height: auto;
+}
+button {
+  border-radius: 50px;
+  margin: 3vh;
+  padding: 1vh 3vw;
+  font-size: 1.2rem;
+}

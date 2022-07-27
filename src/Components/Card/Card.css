@@ -1,0 +1,10 @@
+.card {
+  margin: 5vh auto;
+  display: block;
+  font-size: large;
+  text-align: center;
+  border: 2pxsolid black;
+  background-color: antiquewhite;
+  height: 30vh;
+  width: 100%;
+}
