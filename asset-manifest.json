@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bots-Encyclopedia-new/static/css/main.7fea08c7.css",
+    "main.js": "/Bots-Encyclopedia-new/static/js/main.7a3ee1cc.js",
+    "index.html": "/Bots-Encyclopedia-new/index.html",
+    "main.7fea08c7.css.map": "/Bots-Encyclopedia-new/static/css/main.7fea08c7.css.map",
+    "main.7a3ee1cc.js.map": "/Bots-Encyclopedia-new/static/js/main.7a3ee1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fea08c7.css",
+    "static/js/main.7a3ee1cc.js"
+  ]
+}
